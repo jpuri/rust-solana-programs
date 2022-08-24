@@ -1,0 +1,6 @@
+transfer_coin/node_modules
+transfer_coin/dist
+logging/target
+logging/test-ledger
+transfer_coin/test-ledger
+.DS_Store
